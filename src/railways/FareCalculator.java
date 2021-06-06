@@ -18,7 +18,7 @@ public class FareCalculator  {
 		      File file = new File(i + ".txt");
 		      if (file.createNewFile()) {
 		        System.out.println("File created: " + file.getName());
-		       	path = file.getAbsolutePath();        
+		       	path = file.getPath();        
 		      } else {
 		        System.out.println("File already exists.");
 		      }

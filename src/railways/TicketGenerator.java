@@ -508,6 +508,12 @@ public class TicketGenerator extends FareCalculator implements ActionListener {
 		btnAdd.addActionListener((ActionListener) this );
 		btnReset.addActionListener((ActionListener) this );
 		btnPrint.addActionListener((ActionListener) this );
+		input1X.addActionListener((ActionListener) this );
+		input2X.addActionListener((ActionListener) this );
+		input3X.addActionListener((ActionListener) this );
+		input4X.addActionListener((ActionListener) this );
+		input5X.addActionListener((ActionListener) this );
+		
 
 
 		if (start == 0 || stop == 0) {
@@ -853,7 +859,7 @@ public void actionPerformed(ActionEvent e) {
 		}
 	
 		//input1X
-		if ( source == input1X) {
+		if (source == input1X) {
 			if(input1.getText().trim().length() != 0) {
 				input1.setText(null);
 				input1n = null;
@@ -867,7 +873,7 @@ public void actionPerformed(ActionEvent e) {
 		}
 		
 		//input2X
-		if ( source == input2X) {
+		if (source == input2X) {
 			if(input2.getText().trim().length() != 0) {
 				input2.setText(null);
 				input2n = null;
@@ -881,7 +887,7 @@ public void actionPerformed(ActionEvent e) {
 		}
 		
 		//input3X
-		if ( source == input3X) {
+		if (source == input3X) {
 			if(input3.getText().trim().length() != 0) {
 				input3.setText(null);
 				input3n = null;
@@ -895,7 +901,7 @@ public void actionPerformed(ActionEvent e) {
 		}
 		
 		//input4X
-		if ( source == input4X) {
+		if (source == input4X) {
 			if(input4.getText().trim().length() != 0) {
 				input4.setText(null);
 				input4n = null;
@@ -909,7 +915,7 @@ public void actionPerformed(ActionEvent e) {
 		}
 		
 		//input5X
-		if ( source == input5X) {
+		if (source == input5X) {
 			if(input5.getText().trim().length() != 0) {
 				input5.setText(null);
 				input5n = null;
