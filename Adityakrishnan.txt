@@ -1,0 +1,32 @@
+
+South Coast Line Ticketing System
+*********************************
+
+Date:      Time:
+06/06/2021 15:43:37
+*********************************
+_________________________________
+
+Adityakrishnan    Adult
+18-10-2001
+Kiama --> Central
+$19.44            Return
+_________________________________
+
+Manu    Adult
+12-10-2001
+Kiama --> Central
+$19.44            Return
+
+:::::::::::::::::::::::::::::::::
+
+2 Adults, 0 Children, 0Senior
+Total Tickets: 2
+
+Total Price: 38.88
+
+'''''''''''''''''''''''''''''''''
+
+Happy Journey!
+................................
+
