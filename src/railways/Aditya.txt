@@ -1,0 +1,32 @@
+
+South Coast Line Ticketing System
+*********************************
+
+Date:      Time:
+08/06/2021 00:02:52
+*********************************
+_________________________________
+
+Aditya    Adult
+18-10-2001
+Dapto --> Thirroul
+$6.48            Return
+_________________________________
+
+dfghj    Adult
+fghb
+Dapto --> Thirroul
+$6.48            Return
+
+:::::::::::::::::::::::::::::::::
+
+2 Adults, 0 Children, 0Senior
+Total Tickets: 2
+
+Total Price: 12.96
+
+'''''''''''''''''''''''''''''''''
+
+Happy Journey!
+................................
+
