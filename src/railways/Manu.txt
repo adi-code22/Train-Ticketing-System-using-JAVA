@@ -1,0 +1,32 @@
+
+South Coast Line Ticketing System
+*********************************
+
+Date:      Time:
+08/06/2021 13:11:18
+*********************************
+_________________________________
+
+Manu    Children
+12-02-2001
+Thirroul --> Kiama
+$3            OneWay
+_________________________________
+
+Keerthi    Children
+12-02-1999
+Thirroul --> Kiama
+$3            OneWay
+
+:::::::::::::::::::::::::::::::::
+
+0 Adults, 2 Children, 0Senior
+Total Tickets: 2
+
+Total Price: 6
+
+'''''''''''''''''''''''''''''''''
+
+Happy Journey!
+................................
+
