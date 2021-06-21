@@ -3,27 +3,33 @@ South Coast Line Ticketing System
 *********************************
 
 Date:      Time:
-08/06/2021 00:02:52
+21/06/2021 23:07:52
 *********************************
 _________________________________
 
 Aditya    Adult
 18-10-2001
-Dapto --> Thirroul
+Kiama --> Wollongong
 $6.48            Return
 _________________________________
 
-dfghj    Adult
-fghb
-Dapto --> Thirroul
+Manu    Adult
+21-02-2001
+Kiama --> Wollongong
+$6.48            Return
+_________________________________
+
+Vivek    Adult
+03-12-1999
+Kiama --> Wollongong
 $6.48            Return
 
 :::::::::::::::::::::::::::::::::
 
-2 Adults, 0 Children, 0Senior
-Total Tickets: 2
+3 Adults, 0 Children, 0Senior
+Total Tickets: 3
 
-Total Price: 12.96
+Total Price: 19.44
 
 '''''''''''''''''''''''''''''''''
 
