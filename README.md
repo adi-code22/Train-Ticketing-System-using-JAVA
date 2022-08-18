@@ -7,6 +7,7 @@ The train ticketing system takes queries from the user regarding the destination
 <p>&nbsp;</p>
 
 
+
 # This is the outputed Ticket file
 
 <img align="left" src="https://github.com/adi-code22/Train-Ticketing-System-using-JAVA/blob/main/files/ticket.PNG?raw=true" width="300"/>
